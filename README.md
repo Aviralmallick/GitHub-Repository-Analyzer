@@ -56,7 +56,7 @@ github-repository-analyzer/
 
 Clone the repository:
 
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Aviralmallick/GitHub-Repository-Analyzer
 
 Move into the project directory:
 
