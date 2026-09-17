@@ -1,0 +1,59 @@
+{
+    "profile": {
+        "username": "torvalds",
+        "name": "Linus Torvalds",
+        "followers": 323888,
+        "following": 0,
+        "public_repositories": 12
+    },
+    "repository_statistics": {
+        "total_repos": 12,
+        "total_stars": 262467,
+        "total_forks": 65992,
+        "average_stars": 21872.25,
+        "most_starred": "linux",
+        "most_starred_count": 249288
+    },
+    "language_usage": {
+        "C": 10,
+        "OpenSCAD": 1,
+        "C++": 1
+    },
+    "top_repositories": [
+        {
+            "name": "linux",
+            "stars": 249288,
+            "forks": 64846,
+            "language": "C",
+            "url": "https://github.com/torvalds/linux"
+        },
+        {
+            "name": "AudioNoise",
+            "stars": 4490,
+            "forks": 219,
+            "language": "C",
+            "url": "https://github.com/torvalds/AudioNoise"
+        },
+        {
+            "name": "GuitarPedal",
+            "stars": 2318,
+            "forks": 109,
+            "language": "C",
+            "url": "https://github.com/torvalds/GuitarPedal"
+        },
+        {
+            "name": "uemacs",
+            "stars": 2140,
+            "forks": 323,
+            "language": "C",
+            "url": "https://github.com/torvalds/uemacs"
+        },
+        {
+            "name": "test-tlb",
+            "stars": 1059,
+            "forks": 221,
+            "language": "C",
+            "url": "https://github.com/torvalds/test-tlb"
+        }
+    ]
+}
